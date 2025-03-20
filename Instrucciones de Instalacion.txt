@@ -1,0 +1,20 @@
+Complemento (Addin) gratis
+Realizado por David Vivanco
+Soporte y video de uso en mi web: https://davidvivancoweb.com
+
+Instalacion:
+
+1.-Cerrar Outlook de escritorio
+2.- Doble clic a setup (setup.exe)
+3.- Clic a Instalar
+4.- Clic a Cerrar
+
+Ahora puede abrir Outlook de escritorio y vaya a la pestaña de Complementos 
+en el menú superior.
+
+Importante:
+Probar con fechas de por ejemplo de a un mes, ya que si tiene muchos correos estos se cargan en memoria y puede ser
+que se congele su computador por un rato.
+No olvidar que debe primero agregar los correos a la Libreta de Contactos para que aparezcan en el listado del Formulario.
+
+Un Abrazo!
